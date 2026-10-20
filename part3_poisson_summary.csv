@@ -1,0 +1,32 @@
+Feature,Coefficient,Std_Error,Z_Score,p_value,Sig
+Intercept,-0.5119,0.7119,-0.7191,0.4721,
+Road_Surface_Conditions_Dry,0.0538,0.0683,0.7869,0.4314,
+Road_Surface_Conditions_Flood over 3cm. deep,0.3826,0.1446,2.6452,0.0082,***
+Road_Surface_Conditions_Frost or ice,0.1747,0.0763,2.29,0.022,***
+Road_Surface_Conditions_Snow,0.1019,0.094,1.0841,0.2783,
+Road_Surface_Conditions_Wet or damp,0.0825,0.0689,1.1966,0.2315,
+Weather_Conditions_Fine + high winds,0.2778,0.7078,0.3925,0.6947,
+Weather_Conditions_Fine no high winds,0.3092,0.7072,0.4372,0.662,
+Weather_Conditions_Fog or mist,0.3268,0.7097,0.4604,0.6452,
+Weather_Conditions_Other,0.3074,0.7077,0.4343,0.6641,
+Weather_Conditions_Raining + high winds,0.3577,0.708,0.5052,0.6134,
+Weather_Conditions_Raining no high winds,0.3016,0.7073,0.4264,0.6698,
+Weather_Conditions_Snowing + high winds,0.7317,0.7143,1.0244,0.3056,
+Weather_Conditions_Snowing no high winds,0.1206,0.7099,0.1698,0.8651,
+Weather_Conditions_Unknown,0.2004,0.7075,0.2833,0.777,
+Light_Conditions_Darkness - lights lit,0.0375,0.0452,0.8313,0.4058,
+Light_Conditions_Darkness - lights unlit,0.0593,0.0734,0.8073,0.4195,
+Light_Conditions_Darkness - no lighting,0.0842,0.0537,1.5686,0.1167,
+Light_Conditions_Data missing or out of range,0.1702,1.2275,0.1387,0.8897,
+Light_Conditions_Daylight,0.1,0.0444,2.2505,0.0244,***
+Season_Spring,-0.0223,0.0089,-2.5022,0.0123,***
+Season_Summer,0.0019,0.0089,0.2147,0.83,
+Season_Winter,-0.0192,0.0094,-2.0448,0.0409,***
+Day_of_Week_Monday,0.0282,0.0111,2.5326,0.0113,***
+Day_of_Week_Saturday,-0.0094,0.0118,-0.7995,0.424,
+Day_of_Week_Sunday,-0.0147,0.0157,-0.9394,0.3475,
+Day_of_Week_Thursday,0.0096,0.0111,0.8604,0.3896,
+Day_of_Week_Tuesday,-0.0029,0.0111,-0.258,0.7964,
+Day_of_Week_Wednesday,-0.0002,0.0111,-0.0178,0.9858,
+Speed_limit,0.9657,0.0206,46.7725,0.0,***
+Age_of_Vehicle,0.3793,0.0328,11.5493,0.0,***

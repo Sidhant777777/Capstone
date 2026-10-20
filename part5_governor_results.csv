@@ -1,0 +1,31 @@
+Speed_limit,Road_Surface_Conditions,Light_Conditions,Number_of_Vehicles,Weather_Conditions,Accident_Severity,Governor_Decision
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Unknown,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Unknown,Fatal,Safe
+30.0,Wet or damp,Daylight,2,Other,Fatal,OVERRIDE - Emergency Brake
+20.0,Wet or damp,Daylight,3,Raining + high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Wet or damp,Daylight,2,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,3,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Wet or damp,Daylight,2,Raining no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Wet or damp,Daylight,2,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,3,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,5,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Wet or damp,Daylight,2,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,7,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Wet or damp,Daylight,3,Fine no high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Wet or damp,Daylight,2,Fine + high winds,Fatal,OVERRIDE - Emergency Brake
+30.0,Dry,Daylight,2,Fine no high winds,Fatal,Safe
+30.0,Wet or damp,Daylight,2,Raining no high winds,Fatal,OVERRIDE - Emergency Brake
